@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - entering start
+ * description: file size
+ * return: 0
+ */
 
 int main(void)
 {
