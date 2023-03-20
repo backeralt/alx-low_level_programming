@@ -1,6 +1,11 @@
 #include <stdio.h>
-
-/*my cde*/
+/**
+ * main - Entry point
+ *
+ * Description: A C program that print using printf
+ *
+ * eturn: Always 0
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
